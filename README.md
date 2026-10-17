@@ -1,5 +1,7 @@
-This repository contains all Lab submissions for the course of Software Engineering(UE24CS341A) 2026 5th Sem
+# Software Engineering Lab Submissions
 
-SRN: PES2UG24CS124
-Name: C.K Gagan Gowda
-Class: 5 'B'
+This repository contains all lab submissions for the Software Engineering course (UE24CS341A), 5th Semester, 2026.
+
+**SRN:** PES2UG24CS124  
+**Name:** C.K. Gagan Gowda  
+**Class:** 5 'B'
